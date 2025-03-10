@@ -1,0 +1,30 @@
+.titleNavContain {
+    display: flex;
+}
+
+.titleHead {
+    display: flex;
+}
+
+.titleHead img {
+    height: 61px;
+    padding-left: 184px;
+    padding-top: 20px;
+}
+
+.titleHead h1 {
+    padding-left: 17px;
+    padding-top: 1px;
+    font-family: "Quicksand", sans-serif;
+    font-size: 39px;
+}
+
+.navBarHead ul {
+    list-style-type: none;
+    display: ruby-text;
+    padding: 38px;
+    padding-left: 231px;
+    font-size: 17px;
+    font-family: "Quicksand", sans-serif;
+    white-space: break-spaces;
+}
