@@ -28,3 +28,18 @@
     font-family: "Quicksand", sans-serif;
     white-space: break-spaces;
 }
+
+#mainImg {
+    height: 509px;
+    padding-left: 90px;
+}
+
+.iCons {
+    padding-left: 96px;
+    padding-top: 36px;
+}
+
+.iconImgs img {
+    height: 218px;
+    padding-left: 159px;
+}
