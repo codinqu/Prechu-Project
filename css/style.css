@@ -94,3 +94,25 @@
     font-family: "Quicksand", sans-serif;
     color: #a0acb8;
 }
+
+.copyRight p {
+    text-align: center;
+    font-family: "Quicksand", sans-serif;
+    color: #a0acb8;
+    font-size: 15px;
+    padding-top: 23px;
+    padding-bottom: 19px;
+}
+
+.endContain {
+    background-color: rgb(42, 42, 43);
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.endOfPage p {
+    color: #a0acb8;
+    font-family: "Quicksand", sans-serif;
+    font-size: 39px;
+    padding-left: 85px;
+}
