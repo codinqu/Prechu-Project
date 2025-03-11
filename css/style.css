@@ -62,3 +62,35 @@
     font-size: 13px;
 }
 
+.cartAndText {
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 64px;
+}
+
+#cartText {
+    font-family: "Quicksand", sans-serif;
+    color: #a0acb8;
+    font-size: 44px;
+    padding-left: 48px;
+}
+
+#shopCartImg {
+    height: 349px;
+}
+
+.loremText {
+    padding-top: 73px;
+}
+
+#bullText {
+    font-family: "Quicksand", sans-serif;
+    font-size: 30px;
+    color: #a0acb8;
+}
+
+.loremText p {
+    font-size: 15px;
+    font-family: "Quicksand", sans-serif;
+    color: #a0acb8;
+}
