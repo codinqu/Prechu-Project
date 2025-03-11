@@ -35,11 +35,30 @@
 }
 
 .iCons {
-    padding-left: 96px;
+    padding-left: 5px;
     padding-top: 36px;
 }
 
 .iconImgs img {
     height: 218px;
-    padding-left: 159px;
+    padding-left: 201px;
 }
+
+.conToText {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.conToText h3 {
+    color: rgb(25, 170, 237);
+    font-family: "Quicksand", sans-serif;
+    font-size: 21px;
+}
+
+.conToText p {
+    color: lightslategrey;
+    font-family:  "Quicksand", sans-serif;
+    font-size: 13px;
+}
+
